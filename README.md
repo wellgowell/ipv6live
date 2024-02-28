@@ -39,9 +39,9 @@
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/654850695/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/654850695/ipv6/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/654850695/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/654850695/ipv6/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️EPG
 
