@@ -13,8 +13,8 @@ import json
 import requests
 
 # 原始数据来源地址
-
-m3u_url='https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u'
+##EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz"
+m3u_url='https://mirror.ghproxy.com/https://raw.githubusercontent.com/654850695/ipv6/main/IPTV.m3u'
 epg1_api='https://epg.112114.xyz/?ch='
 epg2_api='https://diyp.112114.xyz/?ch='
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'}
