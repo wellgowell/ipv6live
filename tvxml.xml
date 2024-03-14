@@ -7542,6 +7542,9 @@
 <programme start="20240314113600 +0800" stop="20240314132900 +0800" channel="hmdy">
 <title lang="zh">侠探杰克：永不回头</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240314132900 +0800" stop="20240314150000 +0800" channel="hmdy">
+<title lang="zh">勇敢新泽西</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240314000800 +0800" stop="20240314001900 +0800" channel="hmdh">
 <title lang="zh">29_西行纪</title><desc lang="zh"></desc>
 </programme>
@@ -7658,6 +7661,12 @@
 </programme>
 <programme start="20240314130900 +0800" stop="20240314132200 +0800" channel="hmdh">
 <title lang="zh">29_熊出没之怪兽计划第二季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314132200 +0800" stop="20240314133500 +0800" channel="hmdh">
+<title lang="zh">30_熊出没之怪兽计划第二季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314133500 +0800" stop="20240314134800 +0800" channel="hmdh">
+<title lang="zh">03_猪猪侠之超星五灵侠6</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240314000000 +0800" stop="20240314020000 +0800" channel="dbdj">
 <title lang="zh">精彩节目</title><desc lang="zh"></desc>
@@ -17202,6 +17211,9 @@
 <programme start="20240314125300 +0800" stop="20240314133800 +0800" channel="N02">
 <title lang="zh">27_在那遥远的地方</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240314133800 +0800" stop="20240314142300 +0800" channel="N02">
+<title lang="zh">28_在那遥远的地方</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240314001600 +0800" stop="20240314005600 +0800" channel="N05">
 <title lang="zh">15_只想今生一起走</title><desc lang="zh"></desc>
 </programme>
@@ -17256,6 +17268,9 @@
 <programme start="20240314124200 +0800" stop="20240314132800 +0800" channel="N05">
 <title lang="zh">16_快把我哥带走</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240314132800 +0800" stop="20240314141400 +0800" channel="N05">
+<title lang="zh">17_快把我哥带走</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240314004300 +0800" stop="20240314020200 +0800" channel="N07">
 <title lang="zh">蜀山2剑魔篇</title><desc lang="zh"></desc>
 </programme>
@@ -17294,6 +17309,9 @@
 </programme>
 <programme start="20240314120400 +0800" stop="20240314132400 +0800" channel="N07">
 <title lang="zh">勇敢风暴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314132400 +0800" stop="20240314135400 +0800" channel="N07">
+<title lang="zh">中国搏击十年39</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240314011300 +0800" stop="20240314025800 +0800" channel="N09">
 <title lang="zh">夺命手机</title><desc lang="zh"></desc>
@@ -17348,6 +17366,9 @@
 </programme>
 <programme start="20240314120600 +0800" stop="20240314133200 +0800" channel="N09">
 <title lang="zh">山寨大黄蜂</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314133200 +0800" stop="20240314141400 +0800" channel="N09">
+<title lang="zh">01_铁探[粤语版]</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240314001800 +0800" stop="20240314013800 +0800" channel="N10">
 <title lang="zh">山海经之伏魔正道</title><desc lang="zh"></desc>
@@ -17520,6 +17541,9 @@
 <programme start="20240314130200 +0800" stop="20240314133600 +0800" channel="N15">
 <title lang="zh">12_你是我的荣耀</title><desc lang="zh"></desc>
 </programme>
+<programme start="20240314133600 +0800" stop="20240314141100 +0800" channel="N15">
+<title lang="zh">13_你是我的荣耀</title><desc lang="zh"></desc>
+</programme>
 <programme start="20240314001400 +0800" stop="20240314014400 +0800" channel="N16">
 <title lang="zh">01_那英肖战身穿绝美民国服饰合唱主题曲 9岁患儿天籁之声打动全场</title><desc lang="zh"></desc>
 </programme>
@@ -17588,6 +17612,12 @@
 </programme>
 <programme start="20240314131200 +0800" stop="20240314131600 +0800" channel="N16">
 <title lang="zh">中国范儿-毕刚（舞蹈展示）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314132800 +0800" stop="20240314133200 +0800" channel="N16">
+<title lang="zh">天南地北唱中华-饶子龙（舞蹈展示）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240314133600 +0800" stop="20240314140400 +0800" channel="N16">
+<title lang="zh">外婆的心事（20230921）</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240314000200 +0800" stop="20240314014000 +0800" channel="N18">
 <title lang="zh">2023-24赛季欧冠1/8决赛首回合：莱比锡VS皇马</title><desc lang="zh"></desc>
